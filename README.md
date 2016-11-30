@@ -1,3 +1,3 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+En este repositorio se encuentran los archivos mínimos para crear un libro usando R Markdown y el paquete **bookdown** (https://github.com/rstudio/bookdown).
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+
