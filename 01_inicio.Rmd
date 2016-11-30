@@ -1,0 +1,9 @@
+# Inicios
+
+En este capítulo se mostrará cómo iniciar.
+
+```{r, fig.cap='Diagrama de barras'}
+x <- rpois(n=150, lambda=5)
+barplot(table(x))
+```
+
